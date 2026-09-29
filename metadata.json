@@ -1,0 +1,6 @@
+{
+  "name": "HOÀNG HOÀI ENGLISH CENTER - Hệ Thống Quản Trị Trung Tâm Tiếng Anh",
+  "description": "Hệ thống quản lý học sinh Tiểu học và THCS, theo dõi chất lượng học tập, lớp học, giáo viên, điểm số, học phí và báo cáo phụ huynh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
